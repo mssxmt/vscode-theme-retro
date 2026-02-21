@@ -1,6 +1,6 @@
 # Retro Theme for VS Code
 
-![Retro Theme Screenshot](https://raw.githubusercontent.com/username/repo/main/images/screenshot.png) 
+![Retro Theme Screenshot](https://raw.githubusercontent.com/username/repo/main/images/screenshot.png)
 **NOTE:** Please replace the screenshot URL above with a real screenshot of your theme.
 
 A cool, 80s-inspired retro theme for Visual Studio Code.
@@ -15,7 +15,7 @@ A cool, 80s-inspired retro theme for Visual Studio Code.
 
 ## What's New
 
-### 0.0.1
+### 0.1.0
 
 - Initial release
 
