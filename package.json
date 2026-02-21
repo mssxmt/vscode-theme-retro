@@ -3,6 +3,7 @@
   "displayName": "retro theme",
   "description": "",
   "version": "0.1.0",
+  "publisher": "mssxmt",
   "engines": {
     "vscode": "^1.109.0"
   },
