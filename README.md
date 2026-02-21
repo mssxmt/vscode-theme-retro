@@ -1,8 +1,6 @@
 # Vintage Story Theme for VS Code
 
-<img width="1563" height="980" alt="retro-theme" src="https://github.com/user-attachments/assets/65848bd0-05f6-4ac9-bef0-c8c98af4ac51" />
-
-**NOTE:** Please replace the screenshot URL above with a real screenshot of your theme.
+![Preview](https://raw.githubusercontent.com/mssxmt/vintage-story-theme/main/images/screenshot.png)
 
 A charming, nostalgic theme for Visual Studio Code inspired by classic aesthetics.
 
@@ -16,7 +14,7 @@ A charming, nostalgic theme for Visual Studio Code inspired by classic aesthetic
 
 ## What's New
 
-### 0.1.0
+### 0.1.1
 
 - Initial release
 
